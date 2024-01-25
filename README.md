@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chamchal Kumar
+- 👋 Hi, I’m @Chanchal Kumar
 - 👀 I’m interested in Web Development Project
 - 🌱 I’m currently learning  MERN
 - 💞️ I’m looking to collaborate on Web Development 
